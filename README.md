@@ -1,5 +1,13 @@
-# VR1 Family Charity Distribution IT System
-A pilot IT system to streamline the distribution of aid across the organisation’s internal network.
+# Charity Distribution IT System
+This is a forked repository for a university group project for the subject 'Software Processes and Management'. 
+
+This system is a prototype of a web-based aid distribution and aid recipient management system for a fictional charity organisation. The system was built using FastAPI, Python and PostgreSQL and was hosted on on AWS for demonstration purposes. 
+
+I primarily worked on the following:
+- Database design and schema
+- API endpoints for recipient and item management
+- Backend logic between database and front-end
+- Minor front-end design
 
 ## Features
 - Recipient & Donor Management
